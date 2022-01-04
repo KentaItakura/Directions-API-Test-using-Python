@@ -1,3 +1,7 @@
+#### **このページは[こちらのブログ記事](https://kentapt.hatenablog.com/entry/2022/01/04/150408?_ga=2.19275389.494030156.1641034049-1601353361.1630730568)のコードやデータをまとめたものです**  
+
+<br>
+
 # Directions API (Google Maps Platform) を jupyter notebookからコールしてルート間の距離と所要時間を取得する  
 
 この記事では、**Directions API(Google Maps Platform)** を jupyter notebookからコールして、東京ドームから山手線の各駅までの距離と所要時間を自動的に取得する方法について勉強したのでここにまとめたいと思います。  
